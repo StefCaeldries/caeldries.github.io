@@ -1428,7 +1428,7 @@
       $(".cta").click(function () {
         var t = $(".side-nav").find(".is-active"),
           n = $(".side-nav").children().index(t),
-          s = $(".side-nav").children().length - 4, // hier aangepassen van "-1" naar "-3"bv hoort bij "MIJN CV" - knop
+          s = $(".side-nav").children().length - 1, // hier aangepassen van "-1" naar "-4"bv hoort bij "MIJN CV" - knop
           r = s;
         e(s), i(n, r, s);
       });
