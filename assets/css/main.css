@@ -41,7 +41,8 @@ html {
 }
 body {
   margin: 0;
-  background-image: url(https://khalifa.tn/wp-content/uploads/2011/11/Grey-website-background.jpg); /* werkt niet met pad naar de gedownloade file */
+/*   background-image: url(https://khalifa.tn/wp-content/uploads/2011/11/Grey-website-background.jpg); /* werkt niet met pad naar de gedownloade file */ */
+  background-image: url(https://data.1freewallpapers.com/detail/board-black-line-texture-background-wood.jpg)
 }
 article,
 aside,
